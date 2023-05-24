@@ -1,0 +1,16 @@
+1.https://login.salesforce.com/
+
+username = saurav@demo.sanbox
+password = Sau*2003rav
+
+2.Open Developer Console
+2. File ---> New ---> Select Apex Class
+3. Type below mentioned
+code public class
+FirstClass1
+{
+public static void firstMethod()
+{
+System.debug('WELCOME TO METIOE NASHIK');
+}
+}
